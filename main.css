@@ -1,0 +1,7 @@
+.test-block {
+	height: 50px;
+	width: 50px;
+	background-color: peachpuff;
+	margin: 0 5px;
+	float: left;
+}
